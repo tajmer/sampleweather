@@ -1,0 +1,25 @@
+h1 { 
+    color: chocolate;
+    font-style: italic;
+}
+article header p {
+    background-color: blue;
+    color: white;
+    font-style: oblique;
+    font-size: 24px;
+    
+}
+article figure img {
+    width: 100%;
+}
+article figure  {
+    width: 600px;
+    border: 3px solid blue;
+    padding: 20px;
+}
+article {
+    width: 800px;
+}
+body {
+    font-family: Arial;
+}
